@@ -33,6 +33,7 @@ Make sure to name the file same as the original file.
 If you wish to change the name of the image file then you must
 also make corresponding change in the HTML file which refer to that image.
 
+
 How to use the template
 -----------------------
 Upload the contents to your webserver.
