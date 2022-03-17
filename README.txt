@@ -10,7 +10,6 @@ index.html        - Main HTML page to open the template in browser.
 *.html            - Additional HTML pages (if any).
 LICENSE-*.txt     - License file as per your downloaded variant.
 
-
 How to Edit the template
 ------------------------
 1. Editing Content in template
